@@ -1,4 +1,4 @@
-This project demonstrates various explainable AI methods (attention-based explanations, LIME, SHAP, saliency maps, Grad-CAM, and LayerCAM) for detecting bias in tiger recognition systems.
+This project demonstrates various explainable AI methods (attention-based explanations, LIME, SHAP, saliency maps, Grad-CAM and LayerCAM) for detecting bias in tiger recognition systems.
 
 Usage:
 
